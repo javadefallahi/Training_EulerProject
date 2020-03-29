@@ -1,7 +1,7 @@
 # H1 Tag
 
-Two Star(asterisk): **Bold** 
-One Star(asterisk): *Italic*
+Two Star(asterisk): **Bold** \n
+One Star(asterisk): *Italic* \n
 
 
 ## h2 Tag
