@@ -1,11 +1,30 @@
 # H1 Tag
-
-Two Star(asterisk): **Bold** \n
-One Star(asterisk): *Italic* \n
-
-
 ## h2 Tag
 ### H3 Tag
 #### H4 Tag
 ##### H5 Tag
 ###### H6 Tag
+Two Star(asterisk): **Bold** and One Star(asterisk): *Italic* 
+
+# hello world
+
+this is a 'combat' world
+
+and come on 
+
+```python
+import bs4
+```
+
+
+
+| hello | world | and come on |
+| :---: | :---: | :---------: |
+|   1   |       |             |
+|   2   |       |             |
+|   3   |       |             |
+
+
+
+
+
