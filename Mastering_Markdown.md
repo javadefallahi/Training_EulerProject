@@ -8,7 +8,7 @@ Two Star(asterisk): **Bold** and One Star(asterisk): *Italic*
 
 # hello world
 
-this is a 'combat' world
+this is a `combat` world
 
 and come on 
 
