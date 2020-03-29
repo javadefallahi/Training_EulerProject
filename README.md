@@ -4,4 +4,3 @@ My Training Project as a rookie in "Python" will be here.
 
 ## Python for Happy geeks!
 
-    id for your application, and 
